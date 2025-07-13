@@ -13,4 +13,4 @@ Example programs:
 
 **Example YTPMV videos are at:**
 
-https://github.com/xaxaxa/ytpmv-examples
+https://github.com/mrpapersonic/libytpmv-examples
